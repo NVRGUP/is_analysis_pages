@@ -12,15 +12,16 @@
 }
 .box_1 {
 }
-.box_2 {
-}
 .ellipse {
-}
-.shape {
 }
 .image {
 }
+.placeholder {
+}
 .button {
+}
+.primary_button {
+  color:#FFFFFF;
 }
 .link_button {
   color:#169BD5;
@@ -66,6 +67,10 @@
   font-size:10px;
   text-align:left;
 }
+.label {
+  font-size:14px;
+  text-align:left;
+}
 .paragraph {
   text-align:left;
 }
@@ -81,18 +86,37 @@
   color:#000000;
   text-align:left;
 }
+.droplist {
+  color:#000000;
+  text-align:left;
+}
+.list_box {
+  color:#000000;
+  text-align:left;
+}
+.checkbox {
+  text-align:left;
+}
+.radio_button {
+  text-align:left;
+}
+.tree_node {
+  text-align:left;
+}
 .table_cell {
 }
 .menu_item {
 }
+.connector {
+}
 .sticky_1 {
   text-align:left;
 }
-.sticky_2 {
+.sticky_4 {
   text-align:left;
 }
-.sticky_3 {
-  text-align:left;
+.marker {
+  color:#FFFFFF;
 }
 .form_hint {
   color:#999999;
